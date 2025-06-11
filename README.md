@@ -1,6 +1,6 @@
 # 🚄 Train Management System
 
-A full-stack CRUD web application for managing trains and routes. Built using *React, **Node.js, **Express, and **SQL Server*.
+A full-stack CRUD web application for managing trains and routes. Built using **React**, **Node.js**, **Express**, and **SQL Server**.
 
 ---
 
