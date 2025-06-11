@@ -7,9 +7,9 @@ A full-stack CRUD web application for managing trains and routes. Built using *R
 
 
 ## 📸 Screenshots
-| Login Page | Dashboard | Add Train |
-|------------|-----------|-----------|
-| ![Login](images/login.png) | ![Dashboard](images/register.png) | ![Add Train](images/book_ticket.png) |
+| Login Page | Dashboard | Pick Route | Book Ticket | Cart | UpdateInfo |
+|------------|-----------|-----------|------------|-----------|-----------|
+| ![Login](images/login.png) | ![Dashboard](images/register.png) | ![Add Train](images/home.png) | ![Login](images/book_ticket.png) | ![Dashboard](images/cart(1).png) | ![Add Train](images/update.png) |
 
 ---
 
